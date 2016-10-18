@@ -1,0 +1,30 @@
+menu {
+  position: fixed;
+      left:0px;
+      right: 70%;
+      top:10%;
+      bottom:0px;
+      background-color: green;
+      margin:0px
+    }
+main {
+  position: absolute;
+      right:0px;
+      left: 25%;
+      top:10%;
+      bottom:0px;
+      background-color: blue;
+      margin:0px;
+    }
+body {
+  margin:0px;
+}
+header {background-color: red;
+      position: fixed;
+      top:0px;
+      bottom:90%;
+      left:0px;
+      right:0px;
+      margin:0px;
+      z-index:50;
+}
