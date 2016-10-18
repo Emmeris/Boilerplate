@@ -1,7 +1,7 @@
 menu {
   position: fixed;
       left:0px;
-      right: 70%;
+      right: 75%;
       top:10%;
       bottom:0px;
       background-color: green;
@@ -9,10 +9,11 @@ menu {
     }
 main {
   position: absolute;
+      overflow: auto;
       right:0px;
       left: 25%;
       top:10%;
-      bottom:0px;
+      bottom:0%;
       background-color: blue;
       margin:0px;
     }
